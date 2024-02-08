@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m Hao Chen, a PhD student at Carnegie Mellon University (CMU)
-- 🌱 I’m currently working on Deep Learning and Computer Vision
+- 🔭 I’m Hao Chen, a PhD candidate at Carnegie Mellon University (CMU)
+- 🌱 I work on foundation models and weak supervision.
